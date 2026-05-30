@@ -65,6 +65,18 @@ support data-driven salary decisions
 📸 Output Evidence
 
 (screenshot of SQL query results here)
+## 📊 Salary Analytics Output (Full Window Functions Report)
+
+This output shows employee salary progression over time, including:
+
+- Previous salary comparison (LAG)
+- Salary difference tracking
+- Running total salary accumulation
+- Moving average salary trend
+
+This helps HR understand compensation growth patterns and payroll pressure over time.
+
+![Salary Analytics Output](./screenshot_output.png)
 
 🚀 Conclusion
 
